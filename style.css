@@ -104,9 +104,8 @@ html {
 .home {
     display: flex;
     background: url("./images/banner.jpeg") no-repeat center;
-    height: 100vh;
     color: white;
-    min-height: 500px;
+    min-height: 600px;
     font-family: 'Ubuntu', sans-serif;
 }
 
